@@ -1,4 +1,6 @@
 # proyectoDFS
+
+
 # Proyecto Web Personal — Control de Versiones con Git y GitHub
 
 Repositorio desarrollado como parte de las prácticas de laboratorio de control de versiones. Este proyecto integra la estructura de un sitio web estático modular y documenta los comandos de Git utilizados.
@@ -19,7 +21,7 @@ El sitio web está compuesto por las siguientes páginas y carpetas:
 
 ---
 
-## 🛠️ Comandos de Git Utilizados
+## Comandos de Git Utilizados
 
 ### 1. Configuración Inicial y Entorno Local
 | Comando | Descripción |
