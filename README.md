@@ -1,6 +1,26 @@
 # proyectoDFS
+<p align="center">
+<img src="varios/logos.png" width="300"
+</p>
 
+---
+Plantilla desarrollada en HTML5, CSS3
 
+Archivos principales:
+---
+- index.html
+- identidad.html
+- portafolio.html
+- cvu.html
+- acerca.html
+
+Estructura de la plantilla:
+---
+/--
+  |- css .- Hojas de estilo para las páginas html
+  |- img .- Imagenes utilizadas en las páginas html
+  |- varios .- Archivos para el diseño de readme.
+  
 # Proyecto Web Personal — Control de Versiones con Git y GitHub
 
 Repositorio desarrollado como parte de las prácticas de laboratorio de control de versiones. Este proyecto integra la estructura de un sitio web estático modular y documenta los comandos de Git utilizados.
